@@ -478,7 +478,7 @@
 /sdk/search/                                                       @Azure/azure-sdk-write-search
 
 # ServiceLabel: %Search
-# ServiceOwners:                                                   @efrainretana @kuanlu95 @mattgotteiner
+# ServiceOwners:                                                   @efrainretana @mattgotteiner
 
 # PRLabel: %Service Bus
 /sdk/servicebus/                                                   @EldertGrootenboer @j7nw4r @jsquire @skarri-microsoft
